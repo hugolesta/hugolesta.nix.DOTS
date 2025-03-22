@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+#Allow the following directories
+!.gitignore
+!.config/**
+!README.md
+!.wezterm.lua
+!.zshrc
+!config.nix
+!setup
+#Include subdirectories
+!*/
