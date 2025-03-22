@@ -19,6 +19,7 @@
         pylint
         isort
         python314
+        vimPlugins.avante-nvim
       ];
     };
   };
