@@ -22,7 +22,7 @@
         zellij
         zoxide
         eza
-        nerfonts
+        nerdfonts
       ];
     };
   };
