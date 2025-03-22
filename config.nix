@@ -22,6 +22,7 @@
         zellij
         zoxide
         eza
+        tenv
       ];
     };
   };
