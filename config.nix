@@ -15,6 +15,8 @@
         kubectl
         kubectx
         k9s
+        black
+        pylint
       ];
     };
   };
