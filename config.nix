@@ -17,6 +17,7 @@
         k9s
         black
         pylint
+        isort
       ];
     };
   };
