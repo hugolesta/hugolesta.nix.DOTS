@@ -3,7 +3,7 @@
 
 #Allow the following directories
 !.gitignore
-!.config/**
+!nvim/**
 !README.md
 !.wezterm.lua
 !.zshrc
